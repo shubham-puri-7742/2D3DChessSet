@@ -1,4 +1,4 @@
-# GAM495-2D3DChessSet
+# 2D3DChessSet
 ### A chess set that combines 3D pieces with Unicode symbols
 
 This chess set is a 2-in-1 design that combines 3D chess pieces with Unicode symbols. As in a standard chess set, it consists of black and white pieces. Blue and red have been added as accent colours, although it is not required for the design to work.
